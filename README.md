@@ -5,8 +5,7 @@ Welcome to the course materials for "Intro to Environmental Data Science" offere
 
 ## Instructor
 
-[**Mark Scheuerell**](https://fish.uw.edu/faculty/mark-scheuerell/), Associate Professor
-
+[**Mark Scheuerell**](https://fish.uw.edu/faculty/mark-scheuerell/), Associate Professor  
 School of Aquatic & Fishery Sciences
 
 Office: Rm 220A Fisheries Science
@@ -42,9 +41,9 @@ All of the software we will be using is platform independent, meaning students a
 
 We will be using [**git**](https://git-scm.com/downloads), a free and open source distributed "version control system" for tracking changes to our files. 
 
-#### R & RStudio
+#### R & R Studio
 
-We will be using the free [**R**](https://www.r-project.org/) software and the desktop version of the [**RStudio**](https://www.rstudio.com/products/rstudio-desktop/) integrated development environment (IDE).  We will also be using various packages not contained in the base installation of **R**, but we will wait and install them at the necessary time.
+We will be using the free [**R**](https://www.r-project.org/) software and the desktop version of the [**R Studio**](https://www.rstudio.com/products/rstudio-desktop/) integrated development environment (IDE).  We will also be using various packages not contained in the base installation of **R**, but we will wait and install them at the necessary time.
 
 #### GitHub
 
@@ -61,18 +60,20 @@ Lecture materials will be available via the course website before class, and stu
 
 By the end of the quarter, students should be able to:
 
-* Properly format a data file and document its contents using metadata
+* Use **git** to commit changes to files, recover old versions, push/pull changes to remote repositories, and manage merge conflicts
 
-* Clean (tidy) a messy data file using a variety of tools, inlcuding those in the **tidyverse**
+* Use **GitHub** to create repositories, manage projects, open/comment/close issues, and submit pull requests
 
-* Use **git** to commit changes to files, recover old versions, and push/pull changes to remote repositories
+* Clean a messy data file in **R** using a variety of packages::functions
 
-* Use **Github** to create repositories, manage projects, file issues, and submit pull requests
+* Properly describe and document data using **Ecological Metadata Language**
 
-* Crete a package in **R** and properly test and document its contents
+* Use unit tests in **R** to evaluate code functionality
 
-* Use **Rmarkdown** to combine text, equations, and code into reports, websites, and presentations
+* Create a package in **R** and document its contents
 
-* Create dynamics reports with **Shiny**
+* Use **R Markdown** to combine text, equations, code, tables, and figures into reports, websites, and presentations
+
+* Create dynamic html reports with **Shiny**
 
 
