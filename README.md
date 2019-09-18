@@ -79,3 +79,18 @@ By the end of the quarter, students should be able to:
 * Create dynamic html reports with **Shiny**
 
 
+## Code of conduct
+
+Faculty and students at the University of Washington are expected to maintain the highest standards of academic conduct, professional honesty, and personal integrity (see the [University of Washington Student Conduct Code](https://www.washington.edu/cssc/for-students/academic-misconduct/)). Plagiarism, cheating, and other academic misconduct are serious violations of the Student Conduct Code. The whole basis for this course is the notion of "open science": creating a *transparent* and *reproducible* description of your workflow. Thus, I have no reason to believe that anyone will violate the Student Conduct Code, but I will have no choice but to refer any suspected violation(s) to the College of the Environment for a Student Conduct Process hearing. 
+
+I am dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Any form of language or behavior used to exclude, intimidate, or cause discomfort will not be tolerated. This applies to all course participants (instructor, students, guests). In order to foster a positive and professional learning environment, I encourage the following kinds of behaviors:
+
+* Use welcoming and inclusive language
+
+* Be respectful of different viewpoints and experiences
+
+* Gracefully accept constructive criticism
+
+* Show courtesy and respect towards others
+
+**Please note**: If you believe you have been a victim of an alleged violation of the Student Conduct Code or you are aware of an alleged violation of the Student Conduct Code, you have the right to report that to the University (contact info [here](https://www.washington.edu/cssc/for-students-2/)).
