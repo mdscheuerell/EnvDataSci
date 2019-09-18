@@ -21,6 +21,10 @@ MWF at {time} in Rm {room number} Fisheries Science
   
 Office hours by appointment.
 
+### Materials
+
+Class materials (slides, code) will be available electronically via the [course website](address here).  
+
 ### Pre-requisites
 
 Students should have a working knowledge of the [**R**](https://www.r-project.org/) computing software, such as that provided in FISH 552/553. 
