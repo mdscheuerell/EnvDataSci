@@ -55,17 +55,24 @@ Students will be required to have a user account on **GitHub**, which we will be
 
 This course will provide an overview of tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data. Topics include:
 
-* Version control with **git**  
-
-* Using **Github** to manage projects
-
-* Data organization, documentation, and accessibility
-
-* Accessing remote data repositories
-
-* Using **Rmarkdown** to combine text, equations, and code in reports and presentations
-
-* Creating dynamics reports with **Shiny**
-
 Lecture materials will be available via the course website before class, and students are encouraged to review them beforehand.
+
+## Learning objectives
+
+By the end of the quarter, students should be able to:
+
+* Properly format a data file and document its contents using metadata
+
+* Clean (tidy) a messy data file using a variety of tools, inlcuding those in the **tidyverse**
+
+* Use **git** to commit changes to files, recover old versions, and push/pull changes to remote repositories
+
+* Use **Github** to create repositories, manage projects, file issues, and submit pull requests
+
+* Crete a package in **R** and properly test and document its contents
+
+* Use **Rmarkdown** to combine text, equations, and code into reports, websites, and presentations
+
+* Create dynamics reports with **Shiny**
+
 
