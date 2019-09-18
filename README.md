@@ -26,11 +26,17 @@ Office hours by appointment.
 
 Students should have a working knowledge of the [**R**](https://www.r-project.org/) computing software, such as that provided in FISH 552/553. 
 
+### Credits
+
+This course is {X} credits.
+
 ### Hardware
 
-This course will revolve around hands-on computing exercises that demonstrate the topics of interest. Therefore, students are strongly recommended to bring their own laptop to class, although students are certainly free to work with one another. For students without access to a personal laptop: it is now possible to check out UW laptops for an entire quarter. See the Student Services office for details.
+This course will revolve around hands-on computing exercises that demonstrate the topics of interest. Therefore, students are strongly recommended to bring their own laptop to class, although students are certainly free to work with one another. For students without access to a personal laptop: it is now possible to check out UW laptops for an entire quarter. See the [Student Services office](https://education.uw.edu/admissions/office-of-student-services) for details.
 
 ### Software
+
+All of the software we will be using is platform independent, meaning students are free to use macOS, Linux, or Windows operating systems. In addition to a web browser, students will need to have the following software installed on their computer.
 
 #### git
 
