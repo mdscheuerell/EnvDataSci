@@ -52,9 +52,7 @@ Students will be required to have a user account on **GitHub**, which we will be
 
 ## Course overview
 
-This course will provide an overview of tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data. Topics include:
-
-Lecture materials will be available via the course website before class, and students are encouraged to review them beforehand.
+Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless competition for limited research funding has led to the notions that "knowledge is power" and that data must be protected. These situations tend to slow scientific discovery by hindering larger synthesis efforts and the exploration of new ideas or methodologies. In addition, we are witnessing increasing examples where scientists are unable to successfully reproduce previous findings, bringing into question the integrity of the results. Fortunately, however, we also find ourselves in the midst of an expanding community of developers and practioners of the tools and skills necessary for easier and more transparent design, analysis, and reporting of scientific studies. These advancements have also supported better documentation, management, and access to data, which has facilitated new and often remote collaborations. This course will provide an overview of some so-called "open science" tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data.
 
 ## Learning objectives
 
