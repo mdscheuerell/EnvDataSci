@@ -51,7 +51,7 @@ We will be using the free [**R**](https://www.r-project.org/) software and the d
 
 #### GitHub
 
-Students will be required to have a user account on **GitHub**, which we will be using for file hosting, project management, and some communications. If you do not already have an account, you can sign up for a free one [here](**GitHub**).
+Students will be required to have a user account on [**GitHub**](https://github.com/), which we will be using for file hosting, project management, and some communications. If you do not already have an account, you can sign up for a free one [here](https://github.com/join?source=header-home).
 
 
 ## Course overview
