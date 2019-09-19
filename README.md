@@ -35,7 +35,7 @@ This course is {X} credits.
 
 ### Hardware
 
-This course will revolve around hands-on computing exercises that demonstrate the topics of interest. Therefore, students are strongly recommended to bring their own laptop to class, although students are certainly free to work with one another. For students without access to a personal laptop: it is now possible to check out UW laptops for an entire quarter. See the [Student Services office](https://education.uw.edu/admissions/office-of-student-services) for details.
+This course will revolve around hands-on computing exercises that demonstrate the topics of interest. Therefore, students are strongly recommended to bring their own laptop to class, although students are certainly free to work with one another. **For students without access to a personal laptop**: it is possible to check out UW laptops for an entire quarter (see the [Student Services office](https://education.uw.edu/admissions/office-of-student-services) for details).
 
 ### Software
 
@@ -82,6 +82,10 @@ By the end of the quarter, students should be able to:
 
 {Something here about grading}
 
+## Communication
+
+This course will involve a lot of communication between and among students and the instructor. Short questions directed at me should be addressed via email; I will respond to your message within 48 hours. Detailed questions should be addressed to me in person--either after class or during a scheduled meeting. As the course progresses, we will also use some online tools for larger discussions and comments.
+
 ## Academic integrity
 
 Faculty and students at the University of Washington are expected to maintain the highest standards of academic conduct, professional honesty, and personal integrity (see the [University of Washington Student Conduct Code](https://www.washington.edu/cssc/for-students/academic-misconduct/)). Plagiarism, cheating, and other academic misconduct are serious violations of the Student Conduct Code. The whole basis for this course is the notion of "open science": creating a *transparent* and *reproducible* description of your workflow. Thus, I have no reason to believe that anyone will violate the Student Conduct Code, but I will have no choice but to refer any suspected violation(s) to the College of the Environment for a Student Conduct Process hearing. 
@@ -98,15 +102,15 @@ I am dedicated to providing a welcoming and supportive environment for all peopl
 
 * Show courtesy and respect towards others
 
-**Please note**: If you believe you have been a victim of an alleged violation of the Student Conduct Code or you are aware of an alleged violation of the Student Conduct Code, you have the right to report that to the University (contact info [here](https://www.washington.edu/cssc/for-students-2/)).
+**Please note**: If you believe you have been a victim of an alleged violation of the Student Conduct Code or you are aware of an alleged violation of the Student Conduct Code, you have the right to [report it to the University](https://www.washington.edu/cssc/for-students-2/).
 
 ## Access & accommodations
 
 All students deserve access to the full range of learning experiences, and the University of Washington is committed to creating inclusive and accessible learning environments consistent with federal and state laws. 
 
-### Disability
+### Disabilities
 
-If you have already established accommodations with Disability Resources for Students (DRS), please communicate your approved accommodations to me at your earliest convenience so we can discuss your needs in this course. If you have not yet established services through DRS, but have a temporary health condition or permanent disability that requires accommodations (conditions include but not limited to; mental health, attention-related, learning, vision, hearing, physical or health impacts), you are welcome to contact DRS at 206-543-8924 or via [email](mailto:uwdrs@uw.edu) or their [website](https://depts.washington.edu/uwdrs/). DRS offers resources and coordinates reasonable accommodations for students with disabilities and/or temporary health conditions.  Reasonable accommodations are established through an interactive process between you, your instructor(s) and DRS.
+If you have already established accommodations with Disability Resources for Students (DRS), please communicate your approved accommodations to me at your earliest convenience so we can discuss your needs in this course. If you have not yet established services through DRS, but have a temporary health condition or permanent disability that requires accommodations (*e.g.*, mental health, learning, vision, hearing, physical impacts), you are welcome to contact DRS at 206-543-8924 or via [email](mailto:uwdrs@uw.edu) or their [website](https://depts.washington.edu/uwdrs/). DRS offers resources and coordinates reasonable accommodations for students with disabilities and/or temporary health conditions.  Reasonable accommodations are established through an interactive process between you, your instructor(s) and DRS.
 
 ### Religious observances
 
