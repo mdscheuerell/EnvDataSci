@@ -70,7 +70,11 @@ By the end of the quarter, students should be able to:
 
 * Properly describe and document data using **Ecological Metadata Language**
 
+* Create and access a relational database with **PostgreSQL** and **R**
+
 * Use unit tests in **R** to evaluate code functionality
+
+* Create a reproducible example for use in a quest for help
 
 * Create a package in **R** and document its contents
 
@@ -84,7 +88,7 @@ By the end of the quarter, students should be able to:
 
 ## Communication
 
-This course will involve a lot of communication between and among students and the instructor. Short questions directed at me should be addressed via email; I will respond to your message within 48 hours. Detailed questions should be addressed to me in person--either after class or during a scheduled meeting. As the course progresses, we will also use some online tools for larger discussions and comments.
+This course will involve a *lot* of communication between and among students and the instructor. Short questions should be addressed to me via email; I will respond to your message within 48 hours. Detailed questions should be addressed to me in person--either after class or during a scheduled meeting. As the course progresses, we will also use some online tools for larger discussions and comments.
 
 ## Academic integrity
 
