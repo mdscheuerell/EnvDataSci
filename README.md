@@ -1,6 +1,6 @@
-# Intro to Environmental Data Science
+# Introduction to Environmental Data Science
 
-Welcome to the course materials for "Intro to Environmental Data Science" offered during Winter 2020 in the UW School of Aquatic and Fishery Sciences.
+Welcome to the course materials for "Introduction to Environmental Data Science" offered during Winter 2020 in the UW School of Aquatic and Fishery Sciences.
 
 
 ## Instructor
@@ -43,7 +43,7 @@ All of the software we will be using is platform independent, meaning students a
 
 #### git
 
-We will be using [**git**](https://git-scm.com/downloads), a free and open source distributed "version control system" for tracking changes to our files. 
+We will be using [**git**](https://git-scm.com/downloads), a free and open source "version control system" for tracking changes to our files. 
 
 #### R & R Studio
 
@@ -56,7 +56,26 @@ Students will be required to have a user account on **GitHub**, which we will be
 
 ## Course overview
 
-Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless competition for limited research funding has led to the notions that "knowledge is power" and that data must be protected. These situations tend to slow scientific discovery by hindering larger synthesis efforts and the exploration of new ideas or methodologies. In addition, we are witnessing increasing examples where scientists are unable to successfully reproduce previous findings, bringing into question the integrity of the results. Fortunately, however, we also find ourselves in the midst of an expanding community of developers and practioners of the tools and skills necessary for easier and more transparent design, analysis, and reporting of scientific studies. These advancements have also supported better documentation, management, and access to data, which has facilitated new and often remote collaborations. This course will provide an overview of some so-called "open science" tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data.
+Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless competition for limited research funding has led to the notions that "knowledge is power" and that data must be protected. These situations tend to slow scientific discovery by hindering larger synthesis efforts and the exploration of new ideas or methodologies. In addition, we are witnessing increasing examples where scientists are unable to successfully reproduce previous findings, bringing into question the integrity of the results.
+
+Fortunately, however, we also find ourselves in the midst of an expanding community of developers and practioners of the tools and skills necessary for easier and more transparent design, analysis, and reporting of scientific studies. These advancements have also supported better documentation, management, and access to data, which has facilitated new and often remote collaborations. This relatively new field of "Data Science" is broadly defined, but generally combines elements of data literacy, computer programming, statistics, and graphic design. A data scientist is generally expected to identify relevant questions, gather data from multiple sources, organize it, extract meaningful information, and communicate the results.
+
+This course will provide an overview of some data science tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data. Students will learn how to translate raw data from field and lab studies into databases and "tidy" digital formats, which can then be used for plotting, statistical analyses, etc. Students will learn how to track the history of file changes (version control), collaborate online with others, and generate "recipes" for re-creating one's work. Although failure and frustration in science are common, the open science community tries hard to be welcoming and helpful. Thus, students will also learn how and where to ask for help when attempting something new (*e.g.*, How do I create X from Y?), debugging or fixing code (*e.g.*, What does this error message mean?), etc.
+
+**Please note**: Although statistical analysis and plotting are very important in data science, this course will *not* focus on those aspects because there are several other excellent courses offered in the School of Aquatic and Fishery Sciences. Those include:
+
+* FISH 454 - Ecological Modeling
+
+* FISH 458 - Modeling and Estimation in Conservation and Resource Management
+
+* FISH 546 - Bioinformatics for Environmental Sciences
+
+* FISH 554 - Beautiful Graphics in R
+
+* FISH 559 - Numerical Computing for the Natural Resources
+
+* FISH 560 - Applied Multivariate Statistics for Ecologists
+
 
 ## Learning objectives
 
@@ -66,7 +85,7 @@ By the end of the quarter, students should be able to:
 
 * Use **GitHub** to create repositories, manage projects, open/comment/close issues, and submit pull requests
 
-* Clean a messy data file in **R** using a variety of packages::functions
+* Import and clean a messy data file using a variety of packages::functions in **R**
 
 * Properly describe and document data using **Ecological Metadata Language**
 
@@ -74,7 +93,7 @@ By the end of the quarter, students should be able to:
 
 * Use unit tests in **R** to evaluate code functionality
 
-* Create a reproducible example for use in a quest for help
+* Create a reproducible example to use in a quest for help
 
 * Create a package in **R** and document its contents
 
