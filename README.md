@@ -78,10 +78,15 @@ By the end of the quarter, students should be able to:
 
 * Create dynamic html reports with **Shiny**
 
+## Evaluation
 
-## Code of conduct
+{Something here about grading}
+
+## Academic integrity
 
 Faculty and students at the University of Washington are expected to maintain the highest standards of academic conduct, professional honesty, and personal integrity (see the [University of Washington Student Conduct Code](https://www.washington.edu/cssc/for-students/academic-misconduct/)). Plagiarism, cheating, and other academic misconduct are serious violations of the Student Conduct Code. The whole basis for this course is the notion of "open science": creating a *transparent* and *reproducible* description of your workflow. Thus, I have no reason to believe that anyone will violate the Student Conduct Code, but I will have no choice but to refer any suspected violation(s) to the College of the Environment for a Student Conduct Process hearing. 
+
+## Classroom conduct
 
 I am dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Any form of language or behavior used to exclude, intimidate, or cause discomfort will not be tolerated. This applies to all course participants (instructor, students, guests). In order to foster a positive and professional learning environment, I encourage the following kinds of behaviors:
 
@@ -94,3 +99,7 @@ I am dedicated to providing a welcoming and supportive environment for all peopl
 * Show courtesy and respect towards others
 
 **Please note**: If you believe you have been a victim of an alleged violation of the Student Conduct Code or you are aware of an alleged violation of the Student Conduct Code, you have the right to report that to the University (contact info [here](https://www.washington.edu/cssc/for-students-2/)).
+
+## Accommodations for religious observances
+
+Students who expect to miss class or assignments as a consequence of a religious observance will be provided with a reasonable accomodation to fulfill their academic responsibilities. Absence from class for religious reasons does not relieve students from responsibility for the course work required during the period of absence. It is the responsibility of the student to provide the instructor with advance notice of the dates of religious holidays on which they will be absent. Students who are absent will be offered an opportunity to make up the work, without penalty, within a reasonable time, as long as the student has made prior arrangements.
