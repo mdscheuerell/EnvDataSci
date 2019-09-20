@@ -1,59 +1,5 @@
 # Introduction to Environmental Data Science
 
-Welcome to the course materials for "Introduction to Environmental Data Science" offered during Winter 2020 in the UW School of Aquatic and Fishery Sciences.
-
-
-## Instructor
-
-[**Mark Scheuerell**](https://fish.uw.edu/faculty/mark-scheuerell/), Associate Professor  
-School of Aquatic & Fishery Sciences
-
-Office: Rm 220A Fisheries Science
-
-Email: [scheuerl@uw.edu](mailto:scheuerl@uw.edu)
-
-
-## Course outline
-
-### Meeting times
-
-MWF at {time} in Rm {room number} Fisheries Science
-  
-Office hours by appointment.
-
-### Materials
-
-Class materials (slides, code) will be available electronically via the [course website](address here).  
-
-### Pre-requisites
-
-Students should have a working knowledge of the [**R**](https://www.r-project.org/) computing software, such as that provided in FISH 552/553. 
-
-### Credits
-
-This course is {X} credits.
-
-### Hardware
-
-This course will revolve around hands-on computing exercises that demonstrate the topics of interest. Therefore, students are strongly recommended to bring their own laptop to class, although students are certainly free to work with one another. **For students without access to a personal laptop**: it is possible to check out UW laptops for an entire quarter (see the [Student Services office](https://education.uw.edu/admissions/office-of-student-services) for details).
-
-### Software
-
-All of the software we will be using is platform independent, meaning students are free to use macOS, Linux, or Windows operating systems. In addition to a web browser, students will need to have the following software installed on their computer.
-
-#### git
-
-We will be using [**git**](https://git-scm.com/downloads), a free and open source "version control system" for tracking changes to our files. 
-
-#### R & R Studio
-
-We will be using the free [**R**](https://www.r-project.org/) software and the desktop version of the [**R Studio**](https://www.rstudio.com/products/rstudio-desktop/) integrated development environment (IDE).  We will also be using various packages not contained in the base installation of **R**, but we will wait and install them at the necessary time.
-
-#### GitHub
-
-Students will be required to have a user account on [**GitHub**](https://github.com/), which we will be using for file hosting, project management, and some communications. If you do not already have an account, you can sign up for a free one [here](https://github.com/join?source=header-home).
-
-
 ## Course overview
 
 Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. The seemingly endless competition for limited research funding has led to the notions that "knowledge is power" and that data must be protected. These situations tend to slow scientific discovery by hindering larger synthesis efforts and the exploration of new ideas or methodologies. In addition, we are witnessing increasing examples where scientists are unable to successfully reproduce previous findings, bringing into question the integrity of the results.
@@ -62,7 +8,7 @@ Fortunately, however, we also find ourselves in the midst of an expanding commun
 
 This course will provide an overview of some data science tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data. Students will learn how to translate raw data from field and lab studies into databases and "tidy" digital formats, which can then be used for plotting, statistical analyses, etc. Students will learn how to track the history of file changes (version control), collaborate online with others, and generate "recipes" for re-creating one's work. Although failure and frustration in science are common, the open science community tries hard to be welcoming and helpful. Thus, students will also learn how and where to ask for help when attempting something new (*e.g.*, How do I create X from Y?), debugging or fixing code (*e.g.*, What does this error message mean?), etc.
 
-**Please note**: Although statistical analysis and plotting are very important in data science, this course will *not* focus on those aspects because there are several other excellent courses offered in the School of Aquatic and Fishery Sciences. Those include:
+**Please note**: Although statistical analysis and plotting are very important in data science, this course will *not* focus on those aspects because there are others in the School of Aquatic and Fishery Sciences that do. Those include:
 
 * FISH 454 - Ecological Modeling
 
@@ -81,7 +27,7 @@ This course will provide an overview of some data science tools and best practic
 
 By the end of the quarter, students should be able to:
 
-* Use **git** to commit changes to files, recover old versions, push/pull changes to remote repositories, and manage merge conflicts
+* Use **Git** to commit changes to files, recover old versions, push/pull changes to remote repositories, and manage merge conflicts
 
 * Use **GitHub** to create repositories, manage projects, open/comment/close issues, and submit pull requests
 
@@ -101,6 +47,59 @@ By the end of the quarter, students should be able to:
 
 * Create dynamic html reports with **Shiny**
 
+## Instructor
+
+[**Mark Scheuerell**](https://fish.uw.edu/faculty/mark-scheuerell/), Associate Professor  
+School of Aquatic & Fishery Sciences
+
+Office: Rm 220A Fishery Sciences
+
+Email: [scheuerl@uw.edu](mailto:scheuerl@uw.edu)
+
+## Credits
+
+This course is {X} credits.
+
+## Meeting times
+
+MWF at {time} in Rm {room number} Fisheries Science
+  
+Office hours by appointment.
+
+## Pre-requisites
+
+Students should have a working knowledge of the [**R**](https://www.r-project.org/) computing software, such as that provided in FISH 552/553. 
+
+## Technology
+
+Class materials (slides, code) will be available electronically via the [course website](address here).  
+
+### Hardware
+
+This course will revolve around hands-on computing exercises that demonstrate the topics of interest. Therefore, students are strongly recommended to bring their own laptop to class, although students are certainly free to work with one another. **For students without access to a personal laptop**: it is possible to check out UW laptops for an entire quarter (see the [Student Services office](https://education.uw.edu/admissions/office-of-student-services) for details).
+
+### Software
+
+All of the software we will be using is platform independent, meaning students are free to use macOS, Linux, or Windows operating systems. In addition to a web browser, students will need to have the following software installed on their computer.
+
+#### Git
+
+We will be using [**Git**](https://git-scm.com/downloads), a free and open source version control system for tracking changes to our files. 
+
+#### R & R Studio
+
+We will be using the free [**R**](https://www.r-project.org/) software and the desktop version of the [**R Studio**](https://www.rstudio.com/products/rstudio-desktop/) integrated development environment (IDE).  We will also be using various packages not contained in the base installation of **R**, but we will wait and install them at the necessary time.
+
+#### GitHub
+
+Students will be required to have a user account on [**GitHub**](https://github.com/), which we will be using for file hosting, project management, and some communications. If you do not already have an account, you can sign up for a free one [here](https://github.com/join?source=header-home).
+
+## Teaching methodology
+
+**Lectures**: What format will be used? Will students be required to complete readings or online quizzes before the class meets? How will lecture sessions be conducted (eg lectures, problem solving, group work, computing, use of classroom response systems, worksheets)?
+
+**Labs**: What are the broad goals for the labs (eg interpretation, application, analysis)? How are the labs structured? Does each lab session stand alone, does the work involve field research, will the students conduct independent research projects? What will students need to do to prepare for the labs? What will students submit for evaluation?
+
 ## Evaluation
 
 {Something here about grading}
@@ -109,9 +108,21 @@ By the end of the quarter, students should be able to:
 
 This course will involve a *lot* of communication between and among students and the instructor. Short questions should be addressed to me via email; I will respond to your message within 48 hours. Detailed questions should be addressed to me in person--either after class or during a scheduled meeting. As the course progresses, we will also use some online tools for larger discussions and comments.
 
+## Access & accommodations
+
+All students deserve access to the full range of learning experiences, and the University of Washington is committed to creating inclusive and accessible learning environments consistent with federal and state laws. 
+
+### Disabilities
+
+If you have already established accommodations with Disability Resources for Students (DRS), please communicate your approved accommodations to me at your earliest convenience so we can discuss your needs in this course. If you have not yet established services through DRS, but have a temporary health condition or permanent disability that requires accommodations (*e.g.*, mental health, learning, vision, hearing, physical impacts), you are welcome to contact DRS at 206-543-8924 or via [email](mailto:uwdrs@uw.edu) or their [website](https://depts.washington.edu/uwdrs/). DRS offers resources and coordinates reasonable accommodations for students with disabilities and/or temporary health conditions.  Reasonable accommodations are established through an interactive process between you, your instructor(s) and DRS.
+
+### Religious observances
+
+Students who expect to miss class or assignments as a consequence of their religious observance will be provided with a reasonable accomodation to fulfill their academic responsibilities. Absence from class for religious reasons does not relieve students from responsibility for the course work required during the period of absence. It is the responsibility of the student to provide the instructor with advance notice of the dates of religious holidays on which they will be absent. Students who are absent will be offered an opportunity to make up the work, without penalty, within a reasonable time, as long as the student has made prior arrangements.
+
 ## Academic integrity
 
-Faculty and students at the University of Washington are expected to maintain the highest standards of academic conduct, professional honesty, and personal integrity (see the [University of Washington Student Conduct Code](https://www.washington.edu/cssc/for-students/academic-misconduct/)). Plagiarism, cheating, and other academic misconduct are serious violations of the Student Conduct Code. The whole basis for this course is the notion of "open science": creating a *transparent* and *reproducible* description of your workflow. Thus, I have no reason to believe that anyone will violate the Student Conduct Code, but I will have no choice but to refer any suspected violation(s) to the College of the Environment for a Student Conduct Process hearing. 
+Faculty and students at the University of Washington are expected to maintain the highest standards of academic conduct, professional honesty, and personal integrity (see the [University of Washington Student Conduct Code](https://www.washington.edu/cssc/for-students/academic-misconduct/)). Plagiarism, cheating, and other academic misconduct are serious violations of the Student Conduct Code. The whole basis for this course is the notion of "open science": creating a *transparent* and *reproducible* description of your workflow. Thus, I have no reason to believe that anyone will violate the Student Conduct Code, but *I will have no choice* but to refer any suspected violation(s) to the College of the Environment for a Student Conduct Process hearing. Students who have been guilty of a violation will receive zero points for the exercise in question.
 
 ## Classroom conduct
 
@@ -127,14 +138,8 @@ I am dedicated to providing a welcoming and supportive environment for all peopl
 
 **Please note**: If you believe you have been a victim of an alleged violation of the Student Conduct Code or you are aware of an alleged violation of the Student Conduct Code, you have the right to [report it to the University](https://www.washington.edu/cssc/for-students-2/).
 
-## Access & accommodations
+## Safety
 
-All students deserve access to the full range of learning experiences, and the University of Washington is committed to creating inclusive and accessible learning environments consistent with federal and state laws. 
+If you feel unsafe or at-risk in any way while taking any course, contact SafeCampus, 206-685-7233 anytime—-no matter where you work or study—-to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested.  For a broader range of resources and assistance see the Husky Health & Well-Being website.
 
-### Disabilities
-
-If you have already established accommodations with Disability Resources for Students (DRS), please communicate your approved accommodations to me at your earliest convenience so we can discuss your needs in this course. If you have not yet established services through DRS, but have a temporary health condition or permanent disability that requires accommodations (*e.g.*, mental health, learning, vision, hearing, physical impacts), you are welcome to contact DRS at 206-543-8924 or via [email](mailto:uwdrs@uw.edu) or their [website](https://depts.washington.edu/uwdrs/). DRS offers resources and coordinates reasonable accommodations for students with disabilities and/or temporary health conditions.  Reasonable accommodations are established through an interactive process between you, your instructor(s) and DRS.
-
-### Religious observances
-
-Students who expect to miss class or assignments as a consequence of their religious observance will be provided with a reasonable accomodation to fulfill their academic responsibilities. Absence from class for religious reasons does not relieve students from responsibility for the course work required during the period of absence. It is the responsibility of the student to provide the instructor with advance notice of the dates of religious holidays on which they will be absent. Students who are absent will be offered an opportunity to make up the work, without penalty, within a reasonable time, as long as the student has made prior arrangements.
+## Schedule
