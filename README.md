@@ -143,3 +143,16 @@ I am dedicated to providing a welcoming and supportive environment for all peopl
 If you feel unsafe or at-risk in any way while taking any course, contact SafeCampus, 206-685-7233 anytime--no matter where you work or study--to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested.  For a broader range of resources and assistance see the Husky Health & Well-Being website.
 
 ## Schedule
+
+| Week | Topic |
+| :--: | :---- |
+|   1  | Success through failure <br> Using GitHub for projects <br> Markdown in GitHub <br> How to ask for help |
+|   2  | Version control with Git <br> Using R Studio with Git and GitHub|
+|   3  | Importing and cleaning data I |
+|   4  | Importing and cleaning data II <br> Ecological metadata |
+|   5  | Principles of database design <br> Creating databases with PostgreSQL |
+|   6  | Intro to R Markdown <br> Creating pdf reports |
+|   7  | Creating websites with R Markdown <br> Creating presentations with R Markdown |
+|   8  | Creating R packages <br> Unit tests <br> Package documentation |
+|   9  | Using Shiny to create Dynamic reports |
+|  10  | Presentations of final projects |
