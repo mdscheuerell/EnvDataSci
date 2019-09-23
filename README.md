@@ -96,9 +96,7 @@ Students will be required to have a user account on [**GitHub**](https://github.
 
 ## Teaching methodology
 
-**Lectures**: What format will be used? Will students be required to complete readings or online quizzes before the class meets? How will lecture sessions be conducted (eg lectures, problem solving, group work, computing, use of classroom response systems, worksheets)?
-
-**Labs**: What are the broad goals for the labs (eg interpretation, application, analysis)? How are the labs structured? Does each lab session stand alone, does the work involve field research, will the students conduct independent research projects? What will students need to do to prepare for the labs? What will students submit for evaluation?
+This course will use a flipped classroom model, with new material introduced primarily through reading assignments prior to class. In-class time will focus on demonstrating and applying newly learned skills. Students will be expected to work both individually and collaboratively; course content and evaluation will emphasize the communication of ideas and the ability to reproduce an analysis moreso than a specific pathway or method. The course syllabus provides an overview of the topics to be covered, including links to weekly reading assignments, lecture materials, and homework assignments.
 
 ## Evaluation
 
