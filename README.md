@@ -140,7 +140,7 @@ I am dedicated to providing a welcoming and supportive environment for all peopl
 
 ## Safety
 
-If you feel unsafe or at-risk in any way while taking any course, contact SafeCampus, 206-685-7233 anytime--no matter where you work or study--to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested.  For a broader range of resources and assistance see the Husky Health & Well-Being website.
+If you feel unsafe or at-risk in any way while taking any course, contact SafeCampus, 206-685-7233 anytime&ndash;no matter where you work or study&ndash;to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested.  For a broader range of resources and assistance see the Husky Health & Well-Being website.
 
 ## Schedule
 
@@ -154,5 +154,5 @@ If you feel unsafe or at-risk in any way while taking any course, contact SafeCa
 |   6  | Intro to R Markdown <br> Creating pdf reports |
 |   7  | Creating websites with R Markdown <br> Creating presentations with R Markdown |
 |   8  | Creating R packages <br> Unit tests <br> Package documentation |
-|   9  | Using Shiny to create Dynamic reports |
+|   9  | Using Shiny to create dynamic reports |
 |  10  | Presentations of final projects |
