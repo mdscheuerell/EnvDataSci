@@ -62,7 +62,7 @@ This course is {X} credits.
 
 ## Meeting times
 
-MWF at {time} in Rm {room number} Fisheries Science
+MWF at {time} in Rm {room number} Fishery Sciences
   
 Office hours by appointment.
 
@@ -102,7 +102,7 @@ Students will be required to have a user account on [**GitHub**](https://github.
 
 ## Evaluation
 
-{Something here about grading}
+Students will be evaluated on their knowledge of course content via individual homework assignments (80%) and a final project (20%). Homework will be assigned on each Friday of weeks 1-8 and will be due by 11:59 PM one week later on the following Friday (weeks 2-9). The final project will be due by 11:59 PM on Monday, March 16. The instructor will evaluate and return student assignments within one week of their due date. No credit will be given for late assignments. Students should discuss any potential schedule conflicts with the instructor during the first week of class.
 
 ## Communication
 
@@ -122,7 +122,7 @@ Students who expect to miss class or assignments as a consequence of their relig
 
 ## Academic integrity
 
-Faculty and students at the University of Washington are expected to maintain the highest standards of academic conduct, professional honesty, and personal integrity (see the [University of Washington Student Conduct Code](https://www.washington.edu/cssc/for-students/academic-misconduct/)). Plagiarism, cheating, and other academic misconduct are serious violations of the Student Conduct Code. The whole basis for this course is the notion of "open science": creating a *transparent* and *reproducible* description of your workflow. Thus, I have no reason to believe that anyone will violate the Student Conduct Code, but *I will have no choice* but to refer any suspected violation(s) to the College of the Environment for a Student Conduct Process hearing. Students who have been guilty of a violation will receive zero points for the exercise in question.
+Faculty and students at the University of Washington are expected to maintain the highest standards of academic conduct, professional honesty, and personal integrity (see the [University of Washington Student Conduct Code](https://www.washington.edu/cssc/for-students/academic-misconduct/)). Plagiarism, cheating, and other academic misconduct are serious violations of the Student Conduct Code. The whole basis for this course is the notion of "open science": creating a *transparent* and *reproducible* description of your workflow. Thus, I have no reason to believe that anyone will violate the Student Conduct Code, but *I will have no choice* but to refer any suspected violation(s) to the College of the Environment for a Student Conduct Process hearing. Students who have been guilty of a violation will receive zero points for the assignment in question.
 
 ## Classroom conduct
 
@@ -140,6 +140,6 @@ I am dedicated to providing a welcoming and supportive environment for all peopl
 
 ## Safety
 
-If you feel unsafe or at-risk in any way while taking any course, contact SafeCampus, 206-685-7233 anytime—-no matter where you work or study—-to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested.  For a broader range of resources and assistance see the Husky Health & Well-Being website.
+If you feel unsafe or at-risk in any way while taking any course, contact SafeCampus, 206-685-7233 anytime--no matter where you work or study--to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested.  For a broader range of resources and assistance see the Husky Health & Well-Being website.
 
 ## Schedule
