@@ -78,7 +78,7 @@ This course will revolve around hands-on computing exercises that demonstrate th
 
 ### Software
 
-All of the software we will be using is platform independent, meaning students are free to use macOS, Linux, or Windows operating systems. In addition to a web browser, students will need to have the following software installed on their computer.
+All of the software we will be using is free and platform independent, meaning students may use macOS, Linux, or Windows operating systems. In addition to a web browser, students will need to have the following software installed on their computer. The instructor will be available during the first week of class to help students troubleshoot any installation problems.
 
 #### Git
 
@@ -86,7 +86,11 @@ We will be using [**Git**](https://git-scm.com/downloads), a free and open sourc
 
 #### R & R Studio
 
-We will be using the free [**R**](https://www.r-project.org/) software and the desktop version of the [**R Studio**](https://www.rstudio.com/products/rstudio-desktop/) integrated development environment (IDE).  We will also be using various packages not contained in the base installation of **R**, but we will wait and install them at the necessary time.
+We will be using the free [**R**](https://www.r-project.org/) software and the desktop version of the [**R Studio**](https://www.rstudio.com/products/rstudio-desktop/) integrated development environment (IDE). We will also be using various packages not contained in the base installation of **R**, but we will wait and install them at the necessary time.
+
+#### PostgreSQL
+
+We will be using [**PostgreSQL**](https://www.postgresql.org/download/) to create and access relational databases.
 
 #### GitHub
 
@@ -136,7 +140,7 @@ I am dedicated to providing a welcoming and supportive environment for all peopl
 
 ## Safety
 
-If you feel unsafe or at-risk in any way while taking any course, contact SafeCampus, 206-685-7233 anytime&ndash;no matter where you work or study&ndash;to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested.  For a broader range of resources and assistance see the Husky Health & Well-Being website.
+If you feel unsafe or at-risk in any way while taking any course, contact SafeCampus, 206-685-7233 anytime&ndash;no matter where you work or study&ndash;to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus can provide individualized support, discuss short- and long-term solutions, and connect you with additional resources when requested. For a broader range of resources and assistance see the [Husky Health & Well-Being website](https://wellbeing.uw.edu/).
 
 ## Schedule
 
