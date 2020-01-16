@@ -2,9 +2,11 @@
 
 ## Course overview
 
-Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. In some cases, questions about what and how things were done have left other scientists unable to successfully reproduce previous findings, bringing into question the integrity of the results. Fortunately, however, we also find ourselves in the midst of an expanding community of developers and practioners of the tools and skills necessary for more transparent design, analysis, and reporting of scientific studies. These advancements have also supported better documentation, management, and access to data, which has facilitated new and often remote collaborations. This relatively new field of "Data Science" is broadly defined, but generally combines elements of data literacy, computer programming, statistics, and graphic design. A data scientist is generally expected to identify relevant questions, gather data from multiple sources, organize it, extract meaningful information, and communicate the results to others.
+Science is about the discovery and sharing of information, but much of the process is often shrouded in mystery. In some cases, questions about what and how things were done have left other scientists unable to successfully reproduce previous findings, bringing into question the integrity of the results. Fortunately, however, we also find ourselves in the midst of an expanding community of developers and practitioners of the tools and skills necessary for more transparent design, analysis, and reporting of scientific studies. These advancements have also supported better documentation, management, and access to data, which has facilitated new and often remote collaborations. This relatively new field of "Data Science" is broadly defined, but generally combines elements of data literacy, computer programming, statistics, and graphic design. A data scientist is generally expected to identify relevant questions, gather data from multiple sources, organize it, extract meaningful information, and communicate the results to others.
 
 This course will provide an overview of some data science tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data. Students will learn how to translate raw data from field and lab studies into databases and "tidy" digital formats, which can then be used for plotting, statistical analyses, etc. Students will learn how to track the history of file changes (version control), collaborate online with others, and generate "recipes" for re-creating one's work. Although failure and frustration in science are common, the open science community tries hard to be welcoming and helpful. Thus, students will also learn how and where to ask for help when attempting something new (*e.g.*, How do I create X from Y?), debugging or fixing code (*e.g.*, What does this error message mean?), etc.
+
+Importantly, this course will also discuss the various types of data used in environmental science, which includes an exploration of what constitutes "raw" data versus derived products, and the implications of using the various types. The course will also focus on the ethical and social consequences of using various data types. For example, some recent studies have inferred gender identities from survey responses based on first names, and used that information to summarize hiring practices, demographics of successful grant applications, etc. However, doing so is widely regarded as inappropriate due to non-binary genders and inaccuracies in gender assignment.
 
 **Please note**: Although statistical analysis and plotting are very important in data science, this course will *not* focus on those aspects because there are others in the School of Aquatic and Fishery Sciences that do. Some examples include:
 
@@ -35,6 +37,8 @@ By the end of the quarter, students should be able to:
 
 * Create and access a relational database with **PostgreSQL** and **R**
 
+* Conduct an end-to-end analysis of "big data", focusing on the analysis, summary, and reporting of results
+
 * Use unit tests in **R** to evaluate code functionality
 
 * Create a reproducible example to use in a quest for help
@@ -44,6 +48,10 @@ By the end of the quarter, students should be able to:
 * Use **R Markdown** to combine text, equations, code, tables, and figures into reports, websites, and presentations
 
 * Create dynamic html reports with **Shiny**
+
+## Intended audience
+
+This course is intended for upper level undergraduate and graduate students who are interested in gaining introductory data science skills.
 
 ## Instructor
 
